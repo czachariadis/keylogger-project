@@ -1,0 +1,6 @@
+To run the program properly:
+1) open logger.exe
+2) type smth
+3) open upload.exe
+4) close logger.exe from task manager or by pressing esc.
+5) close upload.exe via task manager.
